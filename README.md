@@ -20,6 +20,7 @@ This tool can be used to fix the 3d effect only for this _specific_ problem.
  - flips
  - a linux machine?
 
+You need to provision yourself the .code of the titleid '0004013020001C02' via godmode9, then rename it to 'code.bin' and move it to the root of the folder.
 Just open the project folder on a terminal and run `make`.
  
  ### Disclaimer
