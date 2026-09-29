@@ -15,7 +15,7 @@ This tool can be used to fix the 3d effect only for this _specific_ problem.
  Then turn on (or reboot if used FTP) the 3DS and try to recalibrate the superstable 3d with the rosalina menu to see if you can achieve a somewhat good 3d effect, good luck! 
  ### Build instructions
  Dependencies:
- - Cmake
+ - make
  - armips
  - flips
  - a linux machine?
