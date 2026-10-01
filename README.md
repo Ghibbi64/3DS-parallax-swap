@@ -1,4 +1,4 @@
-## 3DS parallax swap
+## N3DS Invert Stereoscopic 3D
 A patch for the GSP sysmodule of the 3ds.<br>
 This patch inverts the framebuffer for the left and right eye while using 3d at the last possible moment when the process is passing them to the lcd screen.<br>
 <br>
